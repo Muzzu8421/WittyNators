@@ -105,7 +105,7 @@ export default function TeacherDashboard() {
 
   // Sample teacher data
   const teacherData = {
-    name: "Ms. Sarah Johnson",
+    name: "Mrs. K. Bhargavi",
     subject: "Environmental Science",
     school: "Green Valley High School",
     totalStudents: 125,
@@ -464,3 +464,4 @@ export default function TeacherDashboard() {
     </div>
   );
 }
+
