@@ -133,7 +133,7 @@ export default function StudentDashboard() {
 
   // Sample data
   const studentData = {
-    name: "Alex Chen",
+    name: "Damera Vijay Kumar",
     level: 7,
     ecoPoints: 2450,
     streak: 12,
@@ -578,3 +578,4 @@ export default function StudentDashboard() {
     </div>
   );
 }
+
